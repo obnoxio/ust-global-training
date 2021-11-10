@@ -1,0 +1,85 @@
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+thead th {
+  width: 25%;
+  background-color: blueviolet;
+  color: aqua;
+}
+*{
+    border: none;
+}
+
+
+
+.button-del{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    width: auto;
+    height:fit-content;
+}
+
+.input{
+    width: 300px;
+    border-radius: 5px;
+    height: 30px;
+    box-shadow:1px 1px 1px;
+}
+form{
+    margin-top: 10px;
+    width: inherit;
+    align-items: center;
+}
+
+.div{
+    background-color: rgb(115, 233, 141);
+    padding: 20px;
+    box-shadow: 3px 3px 10px black;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-family: sans-serif;
+  }
+  
+  table {
+    width: 100%;
+    border: 1px solid black;
+  }
+  
+  th,
+  td {
+    border: 1px solid black;
+    padding: 0.5rem;
+  }
+  
+  th span {
+    margin-right: 1rem;
+  }
+  
+  input {
+    -webkit-appearance: none;
+    border: 1px solid gray;
+    padding: 0.5rem;
+    width: 100%;
+    max-width: 100%;
+    background: #f0f0f0;
+  }
+  
+  .pagination {
+    margin-top: 0.25rem;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 0.5rem;
+  }
+body{
+  background-image:url('2.jpg');
+}
+
