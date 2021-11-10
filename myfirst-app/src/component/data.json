@@ -1,0 +1,15 @@
+[
+    {
+      "studentId": 101,
+      "studentName": "surendran",
+      "address": "Nnorth goa",
+      "courseName": "React"
+      },
+      {
+        "studentId": 102,
+        "studentName": "ronaldo",
+        "address": "north paravoor",
+        "courseName": "React"
+        }
+    
+  ]
